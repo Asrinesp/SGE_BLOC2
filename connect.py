@@ -2,11 +2,11 @@ import psycopg2
 
 def connection():
     conn = psycopg2.connect(
-        database="the_bear",
-        password="admin",
-        user="admin",
+        database="all_penjat",
+        password="pass",
+        user="user",
         host="localhost",
-        port="5432"
+        port="5433"
     )
 
     return conn
