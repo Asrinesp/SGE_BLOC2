@@ -27,3 +27,12 @@ Este es el read_reg pero especificando una fila (la fila 4 en este caso)
 
 Este es el read_reg pero especificando fila y columna (en este caso es la fila 4, igual que el anterior y la columna 4)
 ![read_reg_4-4.png](IMG/read_reg_4-4.png)
+
+Aqui estan los siguientes datos:
+- Les dades de l’Andreu
+- El correu de l’Andreu
+- Les dades de la Vivian
+- La direcció de la Vivian
+- Les dades de l’Albert
+- La data de cumpleanys de l’Albert
+![actividad_print_read_reg.png](IMG/actividad_print_read_reg.png)
