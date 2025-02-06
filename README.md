@@ -36,3 +36,6 @@ Aqui estan los siguientes datos:
 - Les dades de l’Albert
 - La data de cumpleanys de l’Albert
 ![actividad_print_read_reg.png](IMG/actividad_print_read_reg.png)
+
+Aqui podemos ver la tabla de datos ordenada de manera que se entiende mejor que es cada dato
+![tabla_datos_registros.png](IMG/tabla_datos_registros.png)
