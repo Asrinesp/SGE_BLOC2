@@ -39,3 +39,6 @@ Aqui estan los siguientes datos:
 
 Aqui podemos ver la tabla de datos ordenada de manera que se entiende mejor que es cada dato
 ![tabla_datos_registros.png](IMG/tabla_datos_registros.png)
+
+Aqui podemos ver como con el update_reg se han cambiado los numeros de telefono de estos 3 clientes
+![telefonos_cambiados.png](IMG/telefonos_cambiados.png)
