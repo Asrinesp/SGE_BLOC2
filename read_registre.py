@@ -11,6 +11,6 @@ def read_reg():
 
     results = cursor.fetchall()
 
-    print(results[4])
+    print(results[4][4])
 
 read_reg()

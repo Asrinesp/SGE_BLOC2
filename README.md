@@ -24,3 +24,6 @@ Aqui podemos ver un print simple de read_registre
 
 Este es el read_reg pero especificando una fila (la fila 4 en este caso)
 ![read_reg_4.png](IMG/read_reg_4.png)
+
+Este es el read_reg pero especificando fila y columna (en este caso es la fila 4, igual que el anterior y la columna 4)
+![read_reg_4-4.png](IMG/read_reg_4-4.png)
