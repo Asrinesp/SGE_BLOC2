@@ -21,3 +21,6 @@ Aqui se puede ver como he podido crear un registro nuevo con la funcion de "crea
 
 Aqui podemos ver un print simple de read_registre
 ![print_read_reg.png](IMG/print_read_reg.png)
+
+Este es el read_reg pero especificando una fila (la fila 4 en este caso)
+![read_reg_4.png](IMG/read_reg_4.png)
