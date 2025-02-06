@@ -16,3 +16,8 @@ Una vez se han creado las tablas solo he tenido que tener mi csv con los datos p
 ![img.png](IMG/csv_to_dict.png)
 ![img.png](IMG/dict_to_db.png)
 
+Aqui se puede ver como he podido crear un registro nuevo con la funcion de "create_registre"
+![create_registre.png](IMG/create_registre.png)
+
+Aqui podemos ver un print simple de read_registre
+![print_read_reg.png](IMG/print_read_reg.png)
