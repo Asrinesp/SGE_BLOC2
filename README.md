@@ -42,3 +42,6 @@ Aqui podemos ver la tabla de datos ordenada de manera que se entiende mejor que 
 
 Aqui podemos ver como con el update_reg se han cambiado los numeros de telefono de estos 3 clientes
 ![telefonos_cambiados.png](IMG/telefonos_cambiados.png)
+
+Aqui podemos ver como funciona el delete_reg para eliminar el cliente seeccionado
+![img.png](delete_records/img.png)
